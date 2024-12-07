@@ -4,6 +4,6 @@
 - 📫 If you want to reach out send a DM on Discord: https://discord.com/users/1277460454482120800
 - 😄 Pronouns: I think Pronouns are fucking awful and a disgrace to this generation.
 - ⚡ Projects: Angry Bird Remake, Numerous Discord Bot's With JS, Python and C#.
-- 🧠 Minds Matter: I am the creator of http://mindsmatter.xyz which is a Mental Health assistance discord app.
+- 🧠 Minds Matter: I am the creator of http://mindsmatter.xyz which is a Mental Health assistance discord app. (OUT OF COMMISION)
 
 
