@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **FiveM Development and Discord Bot Development**
 
-- 📫 How to reach me **https://discord.com/users/762309121193672705**
+- 📫 How to reach me **You don't.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
