@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdhobbsdev&label=Profile%20views&color=0e75b6&style=flat" alt="jdhobbsdev" /> </p>
 
-- 🔭 I’m currently working on [UKRP (A British FiveM Server)](https://discord.gg/ukrp24)
+- 🔭 I’m currently working on [Minds Matter UK Discord Bot](https://mindsmatter.xyz)
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **FiveM NUI Repo's with an old friend**
+- 👯 I’m looking to collaborate on **Discord.js projects**
 
 - 🤝 I’m looking for help with **FiveM Development and Discord Bot Development**
 
