@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Minds Matter UK Discord Bot](https://mindsmatter.xyz)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **React & Typescript**
 
 - 👯 I’m looking to collaborate on **Discord.js projects**
 
