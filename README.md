@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React & Typescript**
 
-- 👯 I’m looking to collaborate on **Discord.js projects**
+- 👯 I’m looking to collaborate on **Unity 3d projects**
 
 - 🤝 I’m looking for help with **FiveM Development and Discord Bot Development**
 
