@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm JD Hobbs</h1>
-<h3 align="center">💻 16 y/o developer building Discord bots, websites & 3D games</h3>
+<h3 align="center">💻 17 y/o developer building Discord bots, websites & 3D games</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jdhobbsdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
