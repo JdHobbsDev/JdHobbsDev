@@ -1,57 +1,66 @@
 <h1 align="center">Hey there 👋, I'm JD Hobbs</h1>
-<h3 align="center">💻 17 y/o developer building Discord bots, websites & 3D games</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jdhobbsdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<h3 align="center">17-year-old developer building Discord bots, websites and games.</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔨 Currently building: [**Minds Matter UK Discord Bot**](https://mindsmatter.xyz)  
-- 📚 Learning: **React**, **TypeScript**, and full-stack development  
-- 🎮 Passionate about: Game development in Unity & mental health tech  
-- 🧠 Always experimenting: From AI ideas to Blender renders  
-- 📫 Reach me here: [**portfolio-jdhobbsdevs-projects.vercel.app/contact**](https://portfolio-jdhobbsdevs-projects.vercel.app/contact)
+I'm a developer who enjoys building things, learning new technologies and turning ideas into working projects.
 
----
+Currently working with:
 
-## 🧰 Tech Stack
+* Discord bots and automation
+* Websites and full-stack applications
+* Unity game development
+* AI and experimental projects
+* 3D development with Blender
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity" title="Unity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender" title="Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
-</p>
+I'm currently learning React, TypeScript and modern full-stack development while continuing to improve my skills across different areas of software development.
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdhobbsdev&show_icons=true&theme=radical&hide_border=true" alt="JD's GitHub stats" />
-</p>
+**Languages**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdhobbsdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+JavaScript · TypeScript · Python · C# · HTML · CSS
+
+**Frameworks & Platforms**
+
+React · Node.js · Unity · MongoDB · MySQL
+
+**Tools**
+
+Git · Blender · VS Code
 
 ---
 
-## 🔗 Let's Connect
+## What I'm Building
 
-<p align="center">
-  <b>Want to collaborate or say hi?</b><br/>
-  👉 <a href="https://portfolio-jdhobbsdevs-projects.vercel.app/contact"><strong>Reach out via my portfolio</strong></a>
-</p>
+I'm constantly working on new projects, experimenting with different technologies and trying to build useful things rather than just following tutorials.
+
+My main interests are:
+
+* Web development
+* Discord development
+* Game development
+* Automation
+* AI
+* Developer tools
+
+---
+
+## Currently Learning
+
+React
+TypeScript
+Full-stack development
+Unity and C#
+3D development
+
+---
+
+## Contact
+
+If you'd like to collaborate, work on a project together, or just have a chat, feel free to get in touch.
