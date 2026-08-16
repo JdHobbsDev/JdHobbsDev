@@ -2,8 +2,6 @@
 
 <h3 align="center">17-year-old developer building Discord bots, websites and games.</h3>
 
----
-
 ## About Me
 
 I'm a developer who enjoys building things, learning new technologies and turning ideas into working projects.
@@ -17,8 +15,6 @@ Currently working with:
 * 3D development with Blender
 
 I'm currently learning React, TypeScript and modern full-stack development while continuing to improve my skills across different areas of software development.
-
----
 
 ## Tech Stack
 
@@ -34,8 +30,6 @@ React · Node.js · Unity · MongoDB · MySQL
 
 Git · Blender · VS Code
 
----
-
 ## What I'm Building
 
 I'm constantly working on new projects, experimenting with different technologies and trying to build useful things rather than just following tutorials.
@@ -49,8 +43,6 @@ My main interests are:
 * AI
 * Developer tools
 
----
-
 ## Currently Learning
 
 React
@@ -58,8 +50,6 @@ TypeScript
 Full-stack development
 Unity and C#
 3D development
-
----
 
 ## Contact
 
